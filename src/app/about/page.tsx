@@ -8,7 +8,7 @@ export default function AboutPage() {
       <div className="space-y-12">
         <div className="text-center">
           <h1 className="font-headline text-4xl md:text-5xl text-primary tracking-wider">
-            À Propos de KEBE Automobile
+            À Propos de Voiture Pour Tous
           </h1>
           <p className="mt-4 text-lg max-w-3xl mx-auto text-muted-foreground">
             Votre partenaire de confiance pour l'automobile au Sénégal et en Afrique de l'Ouest.
@@ -25,7 +25,7 @@ export default function AboutPage() {
             </CardHeader>
             <CardContent className="text-lg space-y-4 text-foreground/80">
               <p>
-                Situé à la VDN, Kébé Automobile est un parking auto proposant des voitures neuves et d'occasion à la vente et à la location. Nous exportons également des véhicules vers la sous-région.
+                Situé à la VDN, Voiture Pour Tous est un parking auto proposant des voitures neuves et d'occasion à la vente et à la location. Nous exportons également des véhicules vers la sous-région.
               </p>
               <p>
                 Notre parcours est marqué par une croissance constante, alimentée par la confiance de nos clients et notre dévouement à l'excellence.
@@ -93,7 +93,7 @@ export default function AboutPage() {
                 </CardHeader>
                 <CardContent className="text-lg text-foreground/80">
                     <p>
-                    Pour simplifier votre expérience d'achat et de location, KEBE Automobile a lancé cette application. Elle vous permet d'explorer notre catalogue, de comparer les véhicules et de nous contacter, rendant la mobilité plus accessible et transparente.
+                    Pour simplifier votre expérience d'achat et de location, Voiture Pour Tous a lancé cette application. Elle vous permet d'explorer notre catalogue, de comparer les véhicules et de nous contacter, rendant la mobilité plus accessible et transparente.
                     </p>
                 </CardContent>
             </Card>

@@ -5,7 +5,7 @@ import { Toaster } from '@/components/ui/toaster';
 import { AppProviders } from '@/context/AppProviders';
 
 export const metadata: Metadata = {
-  title: 'KEBE Automobile',
+  title: 'Voiture Pour Tous',
   description: 'Achetez et louez des véhicules neufs et d’occasion au Sénégal.',
 };
 
